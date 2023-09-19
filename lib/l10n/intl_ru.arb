@@ -1,0 +1,9 @@
+{
+    "helloWorld": "Привет мир!",
+    "weatherAppOnAppBar": "Погода",
+    "searchHistory": "История поиска",
+    "searchCityButton": "Поиск города",
+    "search": "Поиск",
+    "hintYourCity": "Ваш город",
+    "weatherAppBySoftTeco": "Приложение Погода от SoftTeco"
+}

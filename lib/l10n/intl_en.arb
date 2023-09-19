@@ -1,0 +1,9 @@
+{
+    "helloWorld": "Hello World!",
+    "weatherAppOnAppBar": "Weather App",
+    "searchHistory": "Search history",
+    "searchCityButton": "Search city",
+    "search" : "Search",
+    "hintYourCity": "Your city",
+    "weatherAppBySoftTeco": "Weather App by SoftTeco"
+}
